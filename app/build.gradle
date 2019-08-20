@@ -30,6 +30,8 @@ dependencies {
             AndroidXDependencies.appCompat,
             AndroidXDependencies.coreKtx,
 
-            ViewDependencies.materialComponent
+            ViewDependencies.materialComponent,
+
+            project (":opencv")
     )
 }

@@ -46,6 +46,7 @@ object Versions {
 
 object RootDependencies {
     const val applicationId = "com.ayokunlepaul.heimdall"
+    const val openCV = "com.ayokunlepaul.heimdall"
     const val kotlinStandardLibrary = "org.jetbrains.kotlin:kotlin-stdlib-jdk7:${Versions.kotlin}"
     const val javax = "javax.inject:javax.inject:${Versions.javaxInject}"
     const val javaxAnnotation = "javax.annotation:jsr250-api:${Versions.javaxAnnotation}"
